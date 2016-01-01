@@ -1,0 +1,74 @@
+export default {
+  multi: true,
+  pixels: `
+RRRRRR
+RRRRRR
+WRRRRR
+WRRRRR
+RRRRRR
+RRWWRR
+===
+RRRRRR
+RRRRRR
+WRRRRR
+WRRRRR
+RRRRRR
+RRWWRR
+===
+RRRRRR
+RRRRRR
+WRRRRR
+WRRRRR
+RRRRRR
+RRWWRR
+===
+RRRRRR
+RRRRRR
+WRRRRR
+WRRRRR
+RRRRRR
+RRWWRR
+===
+RRRRRR
+RRRRRR
+WRRRRR
+WRRRRR
+RRRRRR
+RRWWRR
+===
+RRWWRR
+RRWWRR
+WWWWWW
+WWWWWW
+RRWWRR
+RRWWRR
+===
+------
+------
+--WW--
+--WW--
+------
+------
+------
+===
+------
+------
+-W--W-
+-W--W-
+------
+------
+------
+===
+------
+------
+W----W
+W----W
+------
+------
+------
+`,
+  colors: {
+    R: 0xEC3E69,
+    W: 0xFFFFFF
+  }
+};
